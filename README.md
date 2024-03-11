@@ -9,7 +9,7 @@
 
 - Created - 2024/03/09
 
-- Technologies Used - Html , tailwind , mui , react , swiper
+- Technologies Used - Html , tailwind , mui , react , swiper , zustand 
 
 - Hooks Used : useState 
 
